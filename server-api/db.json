@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Mohamed Amine",
+      "email": "aminemohamed@gmail.com"
+    },
+    {
+      "id": "z1DolDEmn-8",
+      "name": "jacksheperd",
+      "email": "jacksheperd@gmail.com"
+    },
+    {
+      "id": "i_yLHl9kViE",
+      "name": "Jason",
+      "email": "jasonduvale@gmail.com"
+    },
+    {
+      "id": "3XYgLGKx9cg",
+      "name": "Sawyer",
+      "email": "sawyer@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
