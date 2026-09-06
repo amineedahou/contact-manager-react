@@ -22,7 +22,7 @@ Whether you're managing a handful of contacts or building on top of this as a fo
 
 ## 🚀 Live Demo
 
-**👉 [View the live application](https://aminedahou.runs-on.dev)**
+**👉 [View the live application](https://contact-manager-amineedahou.vercel.app/)**
 
 Deployed and hosted on **Vercel** for fast, reliable global access.
 
